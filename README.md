@@ -2,8 +2,6 @@
 
 👋 **Hey there! I'm Jonatan Luna** – a passionate Full Stack Developer crafting innovative solutions with **Generative AI** at Inetum. I thrive on pushing the boundaries of technology and making AI-driven applications more accessible and impactful.
 
-🎨 **Explore my work:** [JonatanGk.github.io](https://JonatanGk.github.io)
-
 ---
 
 💡 *"Turning ideas into intelligent solutions."* 💡
